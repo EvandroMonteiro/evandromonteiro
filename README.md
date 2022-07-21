@@ -1,4 +1,4 @@
-## Olá👋! Chamo-me Evandro Monteiro, desenvolvedor web fullstack
+## Olá👋! Chamo-me Evandro Monteiro
 
 - 🔭 Eu sou programador fullstack
 - 🌱 Estou a estudar Clean Arquitecture
