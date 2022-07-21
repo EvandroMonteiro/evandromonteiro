@@ -2,7 +2,7 @@
 
 - 🔭 Eu sou programador fullstack
 - 🌱 Estou a estudar Clean Arquitecture
-- 🤔 Procuro colaborar em projetos Typescripts
+- 🤔 Procuro colaborar em projetos que utlizam Node.js, React.js ou Angular
 
 <div align="center">
   <a href="https://github.com/evandromonteiro">
